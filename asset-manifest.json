@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b7d87de.css",
-    "main.js": "/static/js/main.f73b102a.js",
-    "static/js/787.5a2a51ee.chunk.js": "/static/js/787.5a2a51ee.chunk.js",
-    "static/media/555-california.jpg": "/static/media/555-california.3d04c6b450263eeb8714.jpg",
-    "static/media/embarcadero-center.jpg": "/static/media/embarcadero-center.73fa745a7414b0841ea1.jpg",
-    "static/media/banner.jpg": "/static/media/banner.d4379da45496e13b20e8.jpg",
-    "static/media/garden-terrace-at-150-california.jpg": "/static/media/garden-terrace-at-150-california.3cb3ace18f1ad5dceacb.jpg",
-    "static/media/transamerica-redwood-park.jpg": "/static/media/transamerica-redwood-park.ac677aee5cd88dd6c0de.jpg",
-    "static/media/citigroup-center.jpg": "/static/media/citigroup-center.827d07f4327e66a8458e.jpg",
-    "static/media/empire-park.jpg": "/static/media/empire-park.394b62922fcbdaaa7c6e.jpg",
-    "static/media/100-pine.jpg": "/static/media/100-pine.45034301e5fe0063c8cb.jpg",
-    "static/media/101-california.jpg": "/static/media/101-california.74170e6eee3f4130803a.jpg",
-    "static/media/343-sansome-roof-garden.jpg": "/static/media/343-sansome-roof-garden.2dae59faf22988667c8f.jpg",
-    "static/media/525-market-street-plaza.jpg": "/static/media/525-market-street-plaza.3a5bcd9b36fb4c886eb5.jpg",
-    "static/media/50-california-st.jpg": "/static/media/50-california-st.ee995d04ad96db771334.jpg",
-    "index.html": "/index.html",
-    "main.5b7d87de.css.map": "/static/css/main.5b7d87de.css.map",
-    "main.f73b102a.js.map": "/static/js/main.f73b102a.js.map",
-    "787.5a2a51ee.chunk.js.map": "/static/js/787.5a2a51ee.chunk.js.map"
+    "main.css": "./static/css/main.5b7d87de.css",
+    "main.js": "./static/js/main.895524d9.js",
+    "static/js/787.5a2a51ee.chunk.js": "./static/js/787.5a2a51ee.chunk.js",
+    "static/media/555-california.jpg": "./static/media/555-california.3d04c6b450263eeb8714.jpg",
+    "static/media/embarcadero-center.jpg": "./static/media/embarcadero-center.73fa745a7414b0841ea1.jpg",
+    "static/media/banner.jpg": "./static/media/banner.d4379da45496e13b20e8.jpg",
+    "static/media/garden-terrace-at-150-california.jpg": "./static/media/garden-terrace-at-150-california.3cb3ace18f1ad5dceacb.jpg",
+    "static/media/transamerica-redwood-park.jpg": "./static/media/transamerica-redwood-park.ac677aee5cd88dd6c0de.jpg",
+    "static/media/citigroup-center.jpg": "./static/media/citigroup-center.827d07f4327e66a8458e.jpg",
+    "static/media/empire-park.jpg": "./static/media/empire-park.394b62922fcbdaaa7c6e.jpg",
+    "static/media/100-pine.jpg": "./static/media/100-pine.45034301e5fe0063c8cb.jpg",
+    "static/media/101-california.jpg": "./static/media/101-california.74170e6eee3f4130803a.jpg",
+    "static/media/343-sansome-roof-garden.jpg": "./static/media/343-sansome-roof-garden.2dae59faf22988667c8f.jpg",
+    "static/media/525-market-street-plaza.jpg": "./static/media/525-market-street-plaza.3a5bcd9b36fb4c886eb5.jpg",
+    "static/media/50-california-st.jpg": "./static/media/50-california-st.ee995d04ad96db771334.jpg",
+    "index.html": "./index.html",
+    "main.5b7d87de.css.map": "./static/css/main.5b7d87de.css.map",
+    "main.895524d9.js.map": "./static/js/main.895524d9.js.map",
+    "787.5a2a51ee.chunk.js.map": "./static/js/787.5a2a51ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b7d87de.css",
-    "static/js/main.f73b102a.js"
+    "static/js/main.895524d9.js"
   ]
 }
