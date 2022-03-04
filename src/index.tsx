@@ -6,7 +6,7 @@ import { ChakraProvider } from "@chakra-ui/react";
 
 //Pages
 import Home from "./home";
-import App from "./App";
+import App from "./app";
 import Space from "./space";
 import { AnimatePresence } from "framer-motion";
 import About from "./about";
