@@ -9,7 +9,7 @@ import Home from "./Home";
 import App from "./App";
 import Space from "./space";
 import { AnimatePresence } from "framer-motion";
-import About from "./About";
+import About from "./about";
 import Random from "./Random";
 
 ReactDOM.render(
