@@ -5,19 +5,28 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { ChakraProvider } from "@chakra-ui/react";
 
 //Pages
-import Home from "./Home";
+import Home from "./home";
 import App from "./App";
+import Space from "./space";
+import { AnimatePresence } from "framer-motion";
+import About from "./about";
+import Random from "./random";
 
 ReactDOM.render(
   <React.StrictMode>
     <ChakraProvider>
-      <Router>
-        <Routes>
-          <Route path="/" element={<App />}>
-            <Route path="/" element={<Home />} />
-          </Route>
-        </Routes>
-      </Router>
+      <AnimatePresence initial={false}>
+        <Router>
+          <Routes>
+            <Route path="/" element={<App />}>
+              <Route path="/" element={<Home />} />
+              <Route path="/space/:id" element={<Space />} />
+              <Route path='/about' element={<About />} />
+              <Route path='/random' element={<Random />} />
+            </Route>
+          </Routes>
+        </Router>
+      </AnimatePresence>
     </ChakraProvider>
   </React.StrictMode>,
   document.getElementById("root")
