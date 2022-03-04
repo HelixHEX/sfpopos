@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { ChakraProvider } from "@chakra-ui/react";
 
 //Pages
-import Home from "./home";
+import Home from "./Home";
 import App from "./app";
 import Space from "./space";
 import { AnimatePresence } from "framer-motion";
