@@ -10,7 +10,7 @@ import App from "./app";
 import Space from "./space";
 import { AnimatePresence } from "framer-motion";
 import About from "./about";
-import Random from "./random";
+import Random from "./Random";
 
 ReactDOM.render(
   <React.StrictMode>
