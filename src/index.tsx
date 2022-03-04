@@ -6,10 +6,10 @@ import { ChakraProvider } from "@chakra-ui/react";
 
 //Pages
 import Home from "./Home";
-import App from "./app";
+import App from "./App";
 import Space from "./space";
 import { AnimatePresence } from "framer-motion";
-import About from "./about";
+import About from "./About";
 import Random from "./Random";
 
 ReactDOM.render(
